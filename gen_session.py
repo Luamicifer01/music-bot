@@ -16,7 +16,7 @@ if not API_ID:
 if not API_HASH:
     API_HASH = input("\nEnter Your API_HASH:\n > ")
 
-print("\n\n Enter Phone number when asked.\n\n")
+print("\n\n jb phone no. puche to batana \n\n")
 
 i = c(":memory:", api_id=API_ID, api_hash=API_HASH)
 
@@ -24,7 +24,7 @@ i = c(":memory:", api_id=API_ID, api_hash=API_HASH)
 async def main():
     await i.start()
     ss = await i.export_session_string()
-    print("\nHERE IS YOUR STRING SESSION, COPY IT, DON'T SHARE!!\n")
+    print("\nHERE IS YOUR STRING SESSION, COPY IT, kisi ko batna mt ye apna secret hai!!\n")
     print(f"\n{ss}\n")
 
 
