@@ -9,7 +9,7 @@
     <a href="https://t.me/YukkiSupport"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# ADVIK Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, video and even live streams in your group calls via various sources. It comes with a user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -32,7 +32,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <summary><b>🔗 String Session</b></summary>
 <br>
     
-> You'll need a [API_ID](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars#1.-api_id) & [API_HASH](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars#2.-api_hash) in order to generate pyrogram session. 
+> You'll need a [API_ID](https://github.com/Luamicifer01/music-bot/vars/mandatory-vars#1.-api_id) & [API_HASH](https://github.com/Luamicifer01/music-bot/vars/mandatory-vars#2.-api_hash) in order to generate pyrogram session. 
 > Always remeber to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>    
@@ -60,7 +60,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <summary><b>🔗 Deploy to VPS</b></summary>
 <br>
 
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+> Checkout [Docs](https://github.com/Luamicifer01/music-bot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 
 ```console
