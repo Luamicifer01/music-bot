@@ -6,7 +6,7 @@ def checker(mystic):
     async def wrapper(_, message):
         if message.sender_chat:
             return await message.reply_text(
-                "You're an __Anonymous Admin__ in this Chat Group!\nRevert back to User Account From Admin Rights."
+                "tumko rights dene ke naam pr prank ho gaya \n admin ko bolo 8th right hataye."
             )
         blacklisted_chats_list = await blacklisted_chats()
         if message.chat.id in blacklisted_chats_list:
